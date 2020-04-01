@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <!--set of api to make available the framework-->
+    <!--netcoreapp3.1 - target framework moniker-->
+    <!--.net framework - net - net451
+                           net472
+    .net core - netcoreapp - netcoreapp1.0
+                             netcoreapp2.2-->
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <!--this the model based on which the hosting of the application is done
+    it occur in 2 ways: InProcess and OutProcess
+    InProcess: host applicatoin inside IIS worker process, it has high request throught beacause of no proxey: CreateDefaultBuilder - internally calls the UseIS() method and host the app inside the IIS work process
+    OutProcess: forward the request to the kesteral server-->
+        <!--InProcess: kestrel: cross platform web server
+        OutProcess: IIS, Apache-->
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+</Project>
