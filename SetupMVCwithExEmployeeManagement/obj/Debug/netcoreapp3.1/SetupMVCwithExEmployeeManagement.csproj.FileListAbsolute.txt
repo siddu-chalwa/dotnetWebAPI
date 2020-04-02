@@ -18,3 +18,17 @@ C:\gitHubRepo\dotnetWebAPI\SetupMVCwithExEmployeeManagement\obj\Debug\netcoreapp
 C:\gitHubRepo\dotnetWebAPI\SetupMVCwithExEmployeeManagement\obj\Debug\netcoreapp3.1\SetupMVCwithExEmployeeManagement.pdb
 C:\gitHubRepo\dotnetWebAPI\SetupMVCwithExEmployeeManagement\obj\Debug\netcoreapp3.1\SetupMVCwithExEmployeeManagement.genruntimeconfig.cache
 C:\gitHubRepo\dotnetWebAPI\SetupMVCwithExEmployeeManagement\obj\Debug\netcoreapp3.1\SetupMVCwithExEmployeeManagement.csprojAssemblyReference.cache
+C:\gitHubRepo\dotnetWebAPI\SetupMVCwithExEmployeeManagement\bin\Debug\netcoreapp3.1\SetupMVCwithExEmployeeManagement.Views.dll
+C:\gitHubRepo\dotnetWebAPI\SetupMVCwithExEmployeeManagement\bin\Debug\netcoreapp3.1\SetupMVCwithExEmployeeManagement.Views.pdb
+C:\gitHubRepo\dotnetWebAPI\SetupMVCwithExEmployeeManagement\obj\Debug\netcoreapp3.1\SetupMVCwithExEmployeeManagement.RazorAssemblyInfo.cache
+C:\gitHubRepo\dotnetWebAPI\SetupMVCwithExEmployeeManagement\obj\Debug\netcoreapp3.1\SetupMVCwithExEmployeeManagement.RazorAssemblyInfo.cs
+C:\gitHubRepo\dotnetWebAPI\SetupMVCwithExEmployeeManagement\obj\Debug\netcoreapp3.1\SetupMVCwithExEmployeeManagement.TagHelpers.input.cache
+C:\gitHubRepo\dotnetWebAPI\SetupMVCwithExEmployeeManagement\obj\Debug\netcoreapp3.1\SetupMVCwithExEmployeeManagement.TagHelpers.output.cache
+C:\gitHubRepo\dotnetWebAPI\SetupMVCwithExEmployeeManagement\obj\Debug\netcoreapp3.1\SetupMVCwithExEmployeeManagement.RazorCoreGenerate.cache
+C:\gitHubRepo\dotnetWebAPI\SetupMVCwithExEmployeeManagement\obj\Debug\netcoreapp3.1\SetupMVCwithExEmployeeManagement.RazorTargetAssemblyInfo.cs
+C:\gitHubRepo\dotnetWebAPI\SetupMVCwithExEmployeeManagement\obj\Debug\netcoreapp3.1\SetupMVCwithExEmployeeManagement.Views.pdb
+C:\gitHubRepo\dotnetWebAPI\SetupMVCwithExEmployeeManagement\obj\Debug\netcoreapp3.1\SetupMVCwithExEmployeeManagement.csproj.CopyComplete
+C:\gitHubRepo\dotnetWebAPI\SetupMVCwithExEmployeeManagement\obj\Debug\netcoreapp3.1\Razor\Views\Home\details3.cshtml.g.cs
+C:\gitHubRepo\dotnetWebAPI\SetupMVCwithExEmployeeManagement\obj\Debug\netcoreapp3.1\Razor\Views\Home\OtherName.cshtml.g.cs
+C:\gitHubRepo\dotnetWebAPI\SetupMVCwithExEmployeeManagement\obj\Debug\netcoreapp3.1\Razor\tempFolder\Index.cshtml.g.cs
+C:\gitHubRepo\dotnetWebAPI\SetupMVCwithExEmployeeManagement\obj\Debug\netcoreapp3.1\Razor\Views\tempFolder\Index.cshtml.g.cs

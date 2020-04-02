@@ -35,7 +35,7 @@ namespace SetupMVCwithExEmployeeManagement
             //if the request is for mvc then usestaticfiles will pass the request to the next middle ware.
             app.UseStaticFiles();
             //it will take care the request for mvc
-            //default templete: Controller: Home action: Index
+            //default templete: {controller=Home}/{action=Index}/{id?}
             app.UseMvcWithDefaultRoute();
 
             app.Run(async context =>
