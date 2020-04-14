@@ -15,11 +15,11 @@ namespace SetupMVCwithExEmployeeManagement
         public void ConfigureServices(IServiceCollection services)
         {
             //AddMvc method adds all the required MVC services, internally it calls AddMvcCore()
-            //services.AddMvc(options => options.EnableEndpointRouting = false);
+            services.AddMvc(options => options.EnableEndpointRouting = false);
             //AddMvcCore: only adds the core MVC services
 
             //if u want xml format on home/index/1 or home/details/1
-            services.AddMvc(options => options.EnableEndpointRouting = false).AddXmlSerializerFormatters();
+            //services.AddMvc(options => options.EnableEndpointRouting = false).AddXmlSerializerFormatters();
             services.AddSingleton<EmployeeRepository, MockEmployeeRepository>();
         }
 
